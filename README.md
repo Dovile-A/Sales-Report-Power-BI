@@ -37,13 +37,27 @@ The Power BI report includes:
 
 1. **Overview Dashboard**: An overview of key sales metrics.
 
-<img src="https://github.com/Dovile-A/COVID-19-Indicators-Power-BI/raw/master/Images/1_Table_of_Contents.png" alt="Dashboard Overview" width="500"/>
+<img src="https://github.com/Dovile-A/Sales-Report-Power-BI/blob/master/Images/1_Overview.png" alt="Dashboard Overview" width="600"/>
 
-3. **KPI Overview**: An overview of KPIs benchmarked to goal targets, highlighting problematic areas requiring further action.
-4. **Product Analysis**: Top 5 best-selling items, sales performance by product category and individual products, and links to a detailed breakdown matrix table.
-5. **Time Analysis**: Sales trends and comparisons for Q1 and Q2.
+2. **KPI Overview**: An overview of KPIs benchmarked to goal targets, highlighting problematic areas requiring further action.
+
+<img src="https://github.com/Dovile-A/Sales-Report-Power-BI/blob/master/Images/2_KPIs.png" alt="Dashboard Overview" width="600"/>
+
+3. **Product Analysis**: Top 5 best-selling items, sales performance by product category and individual products, and links to a detailed breakdown matrix table.
+
+<img src="https://github.com/Dovile-A/Sales-Report-Power-BI/blob/master/Images/3_Sales_by_Product.png" alt="Dashboard Overview" width="600"/>
+
+4. **Time Analysis**: Sales trends and comparisons for Q1 and Q2.
+
+<img src="https://github.com/Dovile-A/Sales-Report-Power-BI/blob/master/Images/4_Sales_by_Period.png" alt="Dashboard Overview" width="600"/>
+
+5. **Customer Segment Analysis**: Insights into sales performance by customer segments. Can be filtered using slicers for more in-depth overview.
+
+<img src="https://github.com/Dovile-A/Sales-Report-Power-BI/blob/master/Images/5_Sales_by_Customer_Segment.png" alt="Dashboard Overview" width="600"/>
+
 6. **Regional Analysis**: Revenue breakdown by geographic regions. Can be filtered using slicers for more in-depth overview.
-7. **Customer Segment Analysis**: Insights into sales performance by customer segments. Can be filtered using slicers for more in-depth overview.
+
+<img src="https://github.com/Dovile-A/Sales-Report-Power-BI/blob/master/Images/6_Sales_by_Region.png" alt="Dashboard Overview" width="600"/>
 
 ## Tools Used
 
