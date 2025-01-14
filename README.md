@@ -35,12 +35,15 @@ The analysis is based on fictional data provided in three datasets:
 
 The Power BI report includes:
 
-1. **Summary Dashboard**: An overview of key sales metrics.
-2. **KPI Overview**: An overview of KPIs benchmarked to goal targets, highlighting problematic areas requiring further action.
-3. **Product Analysis**: Top 5 best-selling items, sales performance by product category and individual products, and links to a detailed breakdown matrix table.
-4. **Time Analysis**: Sales trends and comparisons for Q1 and Q2.
-5. **Regional Analysis**: Revenue breakdown by geographic regions. Can be filtered using slicers for more in-depth overview.
-6. **Customer Segment Analysis**: Insights into sales performance by customer segments. Can be filtered using slicers for more in-depth overview.
+1. **Overview Dashboard**: An overview of key sales metrics.
+
+<img src="https://github.com/Dovile-A/COVID-19-Indicators-Power-BI/raw/master/Images/1_Table_of_Contents.png" alt="Dashboard Overview" width="500"/>
+
+3. **KPI Overview**: An overview of KPIs benchmarked to goal targets, highlighting problematic areas requiring further action.
+4. **Product Analysis**: Top 5 best-selling items, sales performance by product category and individual products, and links to a detailed breakdown matrix table.
+5. **Time Analysis**: Sales trends and comparisons for Q1 and Q2.
+6. **Regional Analysis**: Revenue breakdown by geographic regions. Can be filtered using slicers for more in-depth overview.
+7. **Customer Segment Analysis**: Insights into sales performance by customer segments. Can be filtered using slicers for more in-depth overview.
 
 ## Tools Used
 
